@@ -1,0 +1,10 @@
+<html>: Define o documento HTML como um todo
+<body>: Define o conteúdo visível da página
+<title>: Define o título da página
+<h1> a <h6>: Define títulos e subtítulos
+<p>: Define um parágrafo de texto
+<a>: Define um link para outra página ou recurso
+<img>: Insere uma imagem na página
+<div>: Define uma seção ou divisão na página
+<span>: Define uma seção embutida na página
+<u> Tag de sublinhado
