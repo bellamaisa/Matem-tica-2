@@ -1,19 +1,37 @@
 <html>
 <body>
-<h1> Exemplo de Botão </h1>
-<a href=  "https://www.nsctotal.com.br/noticias/assista-a-noite-dos-campeoes-junior-no-festival-de-danca-de-joinville" a>
-    <button> Clique Aqui </button> 
+<h1> Exemp
+<a href=  
+    <butto
     </a>
 
 </body>
 
 
 <style>
+.botão{
+
+
+    backgr
+    color:
+    border
+    cursor
+    font-s
+    transi
+    
+
+}
 
 
 
 </style>
 
+
+
+
+
+
+</html>
 
 
 
