@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1> Exemp
-<a href=  
-    <butto
+<h1> Exemplo de Botão </h1>
+<a href=  "https://www.nsctotal.com.br/noticias/assista-a-noite-dos-campeoes-junior-no-festival-de-danca-de-joinville" a>
+    <button class="botão">Clique Aqui</button>
     </a>
 
 </body>
@@ -12,12 +12,12 @@
 .botão{
 
 
-    backgr
-    color:
-    border
-    cursor
-    font-s
-    transi
+    background-color: lightblue;
+    color: mediumaquamarine;
+    border-color: slategrey;
+    cursor: pointer;
+    font-size: medium;
+    transition: cubic-bezier(0.39, 0.575, 0.565, 1);
     
 
 }
@@ -26,12 +26,6 @@
 
 </style>
 
-
-
-
-
-
-</html>
 
 
 
