@@ -1,0 +1,7 @@
+a=int(input ("digite um número:"))
+if a > 10:
+   print("A é maior que 10")
+if a < 10: 
+   print("A é menor que 10")
+if a == 10:
+   print("A é igual a 10")
